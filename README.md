@@ -106,4 +106,5 @@ Da visão da Empresa, podemos concluir que o número de pedidos cresceu entre a 
 2. Criar novos filtros.
 3. Adicionar novas visões de negócio.
 
+* [Link para o Dashboard](https://ramirovsjunior-curry-company-project-01-main-page-u4s6rx.streamlit.app/)
 * [Comunidade DS](https://comunidadedatascience.com/)
